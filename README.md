@@ -31,6 +31,7 @@ whereas the structuring and coding of all other data was to be done from scratch
 * numpy 
 * matplotlib
 * seaborn
+* sqlalchemy
 * requests
 * tweepy
 
