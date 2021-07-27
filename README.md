@@ -14,8 +14,7 @@ to work through the complete data wrangling lifecycle of data gathering, assessm
 
 A few data points in addition to the archive data were gathered from a remote server and some by quering twitter'a API. The complete dataset was then cleaned for quality and tidiness and finally, stored it in a Sqlite database.      
 
-The project was done as a course requirement on Udacity's Data Analyst to demonstrate data wrangling abilities. The tweet archive data of WeRateDogs was provided in the begining
-whereas the structuring and coding of all other data was to be done from scratch.
+The project was done as a course requirement for Udacity's Data Analyst Nanodegree to demonstrate data wrangling abilities. The tweet archive data of WeRateDogs was provided in the begining whereas the structuring and coding of all other data was to be done from scratch.
 
 ## Dependancies
 
