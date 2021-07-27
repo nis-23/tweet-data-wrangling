@@ -10,7 +10,7 @@
 ## Overview
 
 A portfolio project on Data Wrangling. The project uses the tweet archive of WeRateDogs - a popular twitter channel that rates dogs with a unique rating system
-to work through the complete data wrangling lifecycle of data gathering, assessment & cleaning, and storage. And using the stored data for analysis and visualization.
+to work through the complete data wrangling lifecycle of data gathering, assessment & cleaning, and storage; and uses the stored data for analysis and visualization.
 
 A few data points in addition to the archive data were gathered from a remote server and some by quering twitter'a API. The complete dataset was then cleaned for quality and tidiness and finally, stored it in a Sqlite database.      
 
